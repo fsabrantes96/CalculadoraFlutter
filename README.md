@@ -1,16 +1,46 @@
-# calculadora
+# 📱 Calculadora Flutter
 
-A new Flutter project.
+Uma calculadora simples e elegante desenvolvida com Flutter. Suporta operações básicas como adição, subtração, multiplicação, divisão, porcentagem, e possui funcionalidades como limpar, apagar último dígito (DEL com ícone), e tratamento de expressões.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Interface moderna com botões arredondados
+- ✅ Suporte a operações: `+`, `-`, `*`, `/`, `%`
+- ✅ Cálculo de porcentagem (ex: 50% → 0.5)
+- ✅ Botão `AC` para limpar tudo
+- ✅ Botão `DEL` com ícone de backspace para apagar o último dígito
+- ✅ Exibição do resultado em tempo real
+- ✅ Responsivo para qualquer tipo de tela
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Capturas de Tela
+
+<img src="https://via.placeholder.com/300x600.png?text=Calculadora+Flutter" alt="screenshot" width="300"/>
+
+---
+
+## 🚀 Como executar o projeto
+
+### Pré-requisitos
+
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+- Emulador Android/iOS ou dispositivo físico
+
+### Passos
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/calculadora-flutter.git
+
+# Acesse o diretório
+cd calculadora-flutter
+
+# Instale as dependências
+flutter pub get
+
+# Execute o app
+flutter run
