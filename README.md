@@ -18,7 +18,8 @@ Uma calculadora simples e elegante desenvolvida com Flutter. Suporta operações
 
 ## 📸 Capturas de Tela
 
-<img src="https://via.placeholder.com/300x600.png?text=Calculadora+Flutter" alt="screenshot" width="300"/>
+![IMG-20250514-WA0007](https://github.com/user-attachments/assets/bd647109-1082-4dad-80bd-59973856d1c1)
+
 
 ---
 
